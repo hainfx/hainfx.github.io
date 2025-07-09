@@ -3,7 +3,9 @@ layout: post
 title: codeforces题单
 date: 2025/07/05 14:00
 ---
+
 # rating-800 (723)
+
 |   #    |                                                name                                                |   rating |                              standing                              |  status  |  note  |
 |--------|----------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2112A  |                      [Race](https://codeforces.com/problemset/problem/2112/A)                      |      800 | [2112](https://codeforces.com/contest/2112/standings/friends/true) |   todo   |        |
@@ -729,7 +731,9 @@ date: 2025/07/05 14:00
 | 1154A  |            [Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A)             |      800 | [1154](https://codeforces.com/contest/1154/standings/friends/true) |   todo   |        |
 |   4A   |                    [Watermelon](https://codeforces.com/problemset/problem/4/A)                     |      800 |    [4](https://codeforces.com/contest/4/standings/friends/true)    |   todo   |        |
 |  454A  |          [Little Pony and Crystal Mine](https://codeforces.com/problemset/problem/454/A)           |      800 |  [454](https://codeforces.com/contest/454/standings/friends/true)  |   todo   |        |
+
 # rating-900 (180)
+
 |   #    |                                                      name                                                       |   rating |                              standing                              |  status  |  note  |
 |--------|-----------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2114B  |               [Not Quite a Palindromic String](https://codeforces.com/problemset/problem/2114/B)                |      900 | [2114](https://codeforces.com/contest/2114/standings/friends/true) |   todo   |        |
@@ -912,7 +916,9 @@ date: 2025/07/05 14:00
 |  580A  |                     [Kefa and First Steps](https://codeforces.com/problemset/problem/580/A)                     |      900 |  [580](https://codeforces.com/contest/580/standings/friends/true)  |   todo   |        |
 | 1113A  |                     [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A)                      |      900 | [1113](https://codeforces.com/contest/1113/standings/friends/true) |   todo   |        |
 |   6A   |                            [Triangle](https://codeforces.com/problemset/problem/6/A)                            |      900 |    [6](https://codeforces.com/contest/6/standings/friends/true)    |   todo   |        |
+
 # rating-1000 (195)
+
 |   #    |                                          name                                          |   rating |                              standing                              |  status  |  note  |
 |--------|----------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2114C  |          [Need More Arrays](https://codeforces.com/problemset/problem/2114/C)          |     1000 | [2114](https://codeforces.com/contest/2114/standings/friends/true) |   todo   |        |
@@ -1110,7 +1116,9 @@ date: 2025/07/05 14:00
 |   5A   |     [Chat Servers Outgoing Traffic](https://codeforces.com/problemset/problem/5/A)     |     1000 |    [5](https://codeforces.com/contest/5/standings/friends/true)    |   todo   |        |
 |   3A   |       [Shortest path of the king](https://codeforces.com/problemset/problem/3/A)       |     1000 |    [3](https://codeforces.com/contest/3/standings/friends/true)    |   todo   |        |
 |   1A   |            [Theatre Square](https://codeforces.com/problemset/problem/1/A)             |     1000 |    [1](https://codeforces.com/contest/1/standings/friends/true)    |   todo   |        |
+
 # rating-1100 (216)
+
 |   #    |                                            name                                            |   rating |                              standing                              |  status  |  note  |
 |--------|--------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2112B  |            [Shrinking Array](https://codeforces.com/problemset/problem/2112/B)             |     1100 | [2112](https://codeforces.com/contest/2112/standings/friends/true) |   todo   |        |
@@ -1329,7 +1337,9 @@ date: 2025/07/05 14:00
 |  368B  |           [Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)           |     1100 |  [368](https://codeforces.com/contest/368/standings/friends/true)  |   todo   |        |
 |   7A   |            [Kalevitch and Chess](https://codeforces.com/problemset/problem/7/A)            |     1100 |    [7](https://codeforces.com/contest/7/standings/friends/true)    |   todo   |        |
 |   6B   |            [President's Office](https://codeforces.com/problemset/problem/6/B)             |     1100 |    [6](https://codeforces.com/contest/6/standings/friends/true)    |   todo   |        |
+
 # rating-1200 (221)
+
 |   #    |                                                  name                                                   |   rating |                              standing                              |  status  |  note  |
 |--------|---------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2113B  |                     [Good Start](https://codeforces.com/problemset/problem/2113/B)                      |     1200 | [2113](https://codeforces.com/contest/2113/standings/friends/true) |   todo   |        |
@@ -1553,7 +1563,9 @@ date: 2025/07/05 14:00
 |   4B   |                     [Before an Exam](https://codeforces.com/problemset/problem/4/B)                     |     1200 |    [4](https://codeforces.com/contest/4/standings/friends/true)    |   todo   |        |
 |  454B  |            [Little Pony and Sort by Shift](https://codeforces.com/problemset/problem/454/B)             |     1200 |  [454](https://codeforces.com/contest/454/standings/friends/true)  |   todo   |        |
 |  459A  |                  [Pashmak and Garden](https://codeforces.com/problemset/problem/459/A)                  |     1200 |  [459](https://codeforces.com/contest/459/standings/friends/true)  |   todo   |        |
+
 # rating-1300 (221)
+
 |   #    |                                                     name                                                     |   rating |                              standing                              |  status  |  note  |
 |--------|--------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2112C  |                      [Coloring Game](https://codeforces.com/problemset/problem/2112/C)                       |     1300 | [2112](https://codeforces.com/contest/2112/standings/friends/true) |   todo   |        |
@@ -1777,7 +1789,9 @@ date: 2025/07/05 14:00
 | 1155C  |                 [Alarm Clocks Everywhere](https://codeforces.com/problemset/problem/1155/C)                  |     1300 | [1155](https://codeforces.com/contest/1155/standings/friends/true) |   todo   |        |
 |   4C   |                     [Registration System](https://codeforces.com/problemset/problem/4/C)                     |     1300 |    [4](https://codeforces.com/contest/4/standings/friends/true)    |   todo   |        |
 |  459B  |                    [Pashmak and Flowers](https://codeforces.com/problemset/problem/459/B)                    |     1300 |  [459](https://codeforces.com/contest/459/standings/friends/true)  |   todo   |        |
+
 # rating-1400 (216)
+
 |   #    |                                              name                                              |   rating |                              standing                              |  status  |  note  |
 |--------|------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2111D  |            [Creating a Schedule](https://codeforces.com/problemset/problem/2111/D)             |     1400 | [2111](https://codeforces.com/contest/2111/standings/friends/true) |   todo   |        |
@@ -1996,7 +2010,9 @@ date: 2025/07/05 14:00
 |  981C  |            [Useful Decomposition](https://codeforces.com/problemset/problem/981/C)             |     1400 |  [981](https://codeforces.com/contest/981/standings/friends/true)  |   todo   |        |
 | 1156A  |             [Inscribed Figures](https://codeforces.com/problemset/problem/1156/A)              |     1400 | [1156](https://codeforces.com/contest/1156/standings/friends/true) |   todo   |        |
 |   8B   |             [Obsession with Robots](https://codeforces.com/problemset/problem/8/B)             |     1400 |    [8](https://codeforces.com/contest/8/standings/friends/true)    |   todo   |        |
+
 # rating-1500 (203)
+
 |   #    |                                                      name                                                       |   rating |                              standing                              |  status  |  note  |
 |--------|-----------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2121E  |                  [Sponsor of Your Problems](https://codeforces.com/problemset/problem/2121/E)                   |     1500 | [2121](https://codeforces.com/contest/2121/standings/friends/true) |   todo   |        |
@@ -2202,7 +2218,9 @@ date: 2025/07/05 14:00
 |  839C  |                           [Journey](https://codeforces.com/problemset/problem/839/C)                            |     1500 |  [839](https://codeforces.com/contest/839/standings/friends/true)  |   todo   |        |
 |  580C  |                        [Kefa and Park](https://codeforces.com/problemset/problem/580/C)                         |     1500 |  [580](https://codeforces.com/contest/580/standings/friends/true)  |   todo   |        |
 |   2A   |                             [Winner](https://codeforces.com/problemset/problem/2/A)                             |     1500 |    [2](https://codeforces.com/contest/2/standings/friends/true)    |   todo   |        |
+
 # rating-1600 (222)
+
 |   #    |                                            name                                            |   rating |                              standing                              |  status  |  note  |
 |--------|--------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2117E  |               [Lost Soul](https://codeforces.com/problemset/problem/2117/E)                |     1600 | [2117](https://codeforces.com/contest/2117/standings/friends/true) |   todo   |        |
@@ -2427,7 +2445,9 @@ date: 2025/07/05 14:00
 |   1B   |                [Spreadsheet](https://codeforces.com/problemset/problem/1/B)                |     1600 |    [1](https://codeforces.com/contest/1/standings/friends/true)    |   todo   |        |
 |  454C  |    [Little Pony and Expected Maximum](https://codeforces.com/problemset/problem/454/C)     |     1600 |  [454](https://codeforces.com/contest/454/standings/friends/true)  |   todo   |        |
 |  453A  |    [Little Pony and Expected Maximum](https://codeforces.com/problemset/problem/453/A)     |     1600 |  [453](https://codeforces.com/contest/453/standings/friends/true)  |   todo   |        |
+
 # rating-1700 (242)
+
 |   #    |                                                name                                                |   rating |                              standing                              |  status  |  note  |
 |--------|----------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2112D  |             [Reachability and Tree](https://codeforces.com/problemset/problem/2112/D)              |     1700 | [2112](https://codeforces.com/contest/2112/standings/friends/true) |   todo   |        |
@@ -2672,7 +2692,9 @@ date: 2025/07/05 14:00
 | 1148C  |                 [Crazy Diamond](https://codeforces.com/problemset/problem/1148/C)                  |     1700 | [1148](https://codeforces.com/contest/1148/standings/friends/true) |   todo   |        |
 |  126B  |                    [Password](https://codeforces.com/problemset/problem/126/B)                     |     1700 |  [126](https://codeforces.com/contest/126/standings/friends/true)  |   todo   |        |
 |   4D   |                [Mysterious Present](https://codeforces.com/problemset/problem/4/D)                 |     1700 |    [4](https://codeforces.com/contest/4/standings/friends/true)    |   todo   |        |
+
 # rating-1800 (216)
+
 |   #    |                                                  name                                                  |   rating |                              standing                              |  status  |  note  |
 |--------|--------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2121F  |                      [Yamakasi](https://codeforces.com/problemset/problem/2121/F)                      |     1800 | [2121](https://codeforces.com/contest/2121/standings/friends/true) |   todo   |        |
@@ -2891,7 +2913,9 @@ date: 2025/07/05 14:00
 | 1138B  |                       [Circus](https://codeforces.com/problemset/problem/1138/B)                       |     1800 | [1138](https://codeforces.com/contest/1138/standings/friends/true) |   todo   |        |
 |   3C   |                      [Tic-tac-toe](https://codeforces.com/problemset/problem/3/C)                      |     1800 |    [3](https://codeforces.com/contest/3/standings/friends/true)    |   todo   |        |
 |  459D  |            [Pashmak and Parmida's problem](https://codeforces.com/problemset/problem/459/D)            |     1800 |  [459](https://codeforces.com/contest/459/standings/friends/true)  |   todo   |        |
+
 # rating-1900 (260)
+
 |   #    |                                             name                                             |   rating |                              standing                              |  status  |  note  |
 |--------|----------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2121G  |                 [Gangsta](https://codeforces.com/problemset/problem/2121/G)                  |     1900 | [2121](https://codeforces.com/contest/2121/standings/friends/true) |   todo   |        |
@@ -3154,7 +3178,9 @@ date: 2025/07/05 14:00
 |   3B   |                    [Lorry](https://codeforces.com/problemset/problem/3/B)                    |     1900 |    [3](https://codeforces.com/contest/3/standings/friends/true)    |   todo   |        |
 |  459E  |             [Pashmak and Graph](https://codeforces.com/problemset/problem/459/E)             |     1900 |  [459](https://codeforces.com/contest/459/standings/friends/true)  |   todo   |        |
 |  459C  |             [Pashmak and Buses](https://codeforces.com/problemset/problem/459/C)             |     1900 |  [459](https://codeforces.com/contest/459/standings/friends/true)  |   todo   |        |
+
 # rating-2000 (230)
+
 |   #    |                                                   name                                                   |   rating |                              standing                              |  status  |  note  |
 |--------|----------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2114F  |                   [Small Operations](https://codeforces.com/problemset/problem/2114/F)                   |     2000 | [2114](https://codeforces.com/contest/2114/standings/friends/true) |   todo   |        |
@@ -3387,7 +3413,9 @@ date: 2025/07/05 14:00
 |   2B   |                   [The least round way](https://codeforces.com/problemset/problem/2/B)                   |     2000 |    [2](https://codeforces.com/contest/2/standings/friends/true)    |   todo   |        |
 |  454D  |             [Little Pony and Harmony Chest](https://codeforces.com/problemset/problem/454/D)             |     2000 |  [454](https://codeforces.com/contest/454/standings/friends/true)  |   todo   |        |
 |  453B  |             [Little Pony and Harmony Chest](https://codeforces.com/problemset/problem/453/B)             |     2000 |  [453](https://codeforces.com/contest/453/standings/friends/true)  |   todo   |        |
+
 # rating-2100 (193)
+
 |   #    |                                             name                                             |   rating |                              standing                              |  status  |  note  |
 |--------|----------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2115B  |     [Gellyfish and Camellia Japonica](https://codeforces.com/problemset/problem/2115/B)      |     2100 | [2115](https://codeforces.com/contest/2115/standings/friends/true) |   todo   |        |
@@ -3583,7 +3611,9 @@ date: 2025/07/05 14:00
 |  343D  |                [Water Tree](https://codeforces.com/problemset/problem/343/D)                 |     2100 |  [343](https://codeforces.com/contest/343/standings/friends/true)  |   todo   |        |
 |   5D   |            [Follow Traffic Rules](https://codeforces.com/problemset/problem/5/D)             |     2100 |    [5](https://codeforces.com/contest/5/standings/friends/true)    |   todo   |        |
 |   1C   |           [Ancient Berland Circus](https://codeforces.com/problemset/problem/1/C)            |     2100 |    [1](https://codeforces.com/contest/1/standings/friends/true)    |   todo   |        |
+
 # rating-2200 (224)
+
 |   #    |                                                        name                                                         |   rating |                              standing                              |  status  |  note  |
 |--------|---------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2112E  |                         [Tree Colorings](https://codeforces.com/problemset/problem/2112/E)                          |     2200 | [2112](https://codeforces.com/contest/2112/standings/friends/true) |   todo   |        |
@@ -3810,7 +3840,9 @@ date: 2025/07/05 14:00
 | 1154G  |                      [Minimum Possible LCM](https://codeforces.com/problemset/problem/1154/G)                       |     2200 | [1154](https://codeforces.com/contest/1154/standings/friends/true) |   todo   |        |
 |  280C  |                           [Game on Tree](https://codeforces.com/problemset/problem/280/C)                           |     2200 |  [280](https://codeforces.com/contest/280/standings/friends/true)  |   todo   |        |
 |   7D   |                         [Palindrome Degree](https://codeforces.com/problemset/problem/7/D)                          |     2200 |    [7](https://codeforces.com/contest/7/standings/friends/true)    |   todo   |        |
+
 # rating-2300 (202)
+
 |   #    |                                                  name                                                  |   rating |                              standing                              |  status  |  note  |
 |--------|--------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2121H  |                      [Ice Baby](https://codeforces.com/problemset/problem/2121/H)                      |     2300 | [2121](https://codeforces.com/contest/2121/standings/friends/true) |   todo   |        |
@@ -4015,7 +4047,9 @@ date: 2025/07/05 14:00
 |  893F  |                [Subtree Minimum Query](https://codeforces.com/problemset/problem/893/F)                |     2300 |  [893](https://codeforces.com/contest/893/standings/friends/true)  |   todo   |        |
 |  787D  |                       [Legacy](https://codeforces.com/problemset/problem/787/D)                        |     2300 |  [787](https://codeforces.com/contest/787/standings/friends/true)  |   todo   |        |
 |  786B  |                       [Legacy](https://codeforces.com/problemset/problem/786/B)                        |     2300 |  [786](https://codeforces.com/contest/786/standings/friends/true)  |   todo   |        |
+
 # rating-2400 (223)
+
 |   #    |                                                name                                                 |   rating |                              standing                              |  status  |  note  |
 |--------|-----------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2118E  |                  [Grid Coloring](https://codeforces.com/problemset/problem/2118/E)                  |     2400 | [2118](https://codeforces.com/contest/2118/standings/friends/true) |   todo   |        |
@@ -4241,7 +4275,9 @@ date: 2025/07/05 14:00
 | 1187D  |                [Subarray Sorting](https://codeforces.com/problemset/problem/1187/D)                 |     2400 | [1187](https://codeforces.com/contest/1187/standings/friends/true) |   todo   |        |
 |  932E  |                    [Team Work](https://codeforces.com/problemset/problem/932/E)                     |     2400 |  [932](https://codeforces.com/contest/932/standings/friends/true)  |   todo   |        |
 |   5E   |                [Bindian Signalizing](https://codeforces.com/problemset/problem/5/E)                 |     2400 |    [5](https://codeforces.com/contest/5/standings/friends/true)    |   todo   |        |
+
 # rating-2500 (201)
+
 |   #    |                                                  name                                                   |   rating |                              standing                              |  status  |  note  |
 |--------|---------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2113F  |                     [Two Arrays](https://codeforces.com/problemset/problem/2113/F)                      |     2500 | [2113](https://codeforces.com/contest/2113/standings/friends/true) |   todo   |        |
@@ -4445,7 +4481,9 @@ date: 2025/07/05 14:00
 | 1188C  |                    [Array Beauty](https://codeforces.com/problemset/problem/1188/C)                     |     2500 | [1188](https://codeforces.com/contest/1188/standings/friends/true) |   todo   |        |
 | 1175F  |            [The Number of Subpermutations](https://codeforces.com/problemset/problem/1175/F)            |     2500 | [1175](https://codeforces.com/contest/1175/standings/friends/true) |   todo   |        |
 |  712E  |                  [Memory and Casinos](https://codeforces.com/problemset/problem/712/E)                  |     2500 |  [712](https://codeforces.com/contest/712/standings/friends/true)  |   todo   |        |
+
 # rating-2600 (174)
+
 |   #    |                                              name                                              |   rating |                              standing                              |  status  |  note  |
 |--------|------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2109C3 |      [Hacking Numbers (Hard Version)](https://codeforces.com/problemset/problem/2109/C3)       |     2600 | [2109](https://codeforces.com/contest/2109/standings/friends/true) |   todo   |        |
@@ -4622,7 +4660,9 @@ date: 2025/07/05 14:00
 |   6D   |            [Lizards and Basements 2](https://codeforces.com/problemset/problem/6/D)            |     2600 |    [6](https://codeforces.com/contest/6/standings/friends/true)    |   todo   |        |
 |   2C   |              [Commentator problem](https://codeforces.com/problemset/problem/2/C)              |     2600 |    [2](https://codeforces.com/contest/2/standings/friends/true)    |   todo   |        |
 |   3D   |          [Least Cost Bracket Sequence](https://codeforces.com/problemset/problem/3/D)          |     2600 |    [3](https://codeforces.com/contest/3/standings/friends/true)    |   todo   |        |
+
 # rating-2700 (159)
+
 |   #    |                                              name                                               |   rating |                              standing                              |  status  |  note  |
 |--------|-------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2115C  |        [Gellyfish and Eternal Violet](https://codeforces.com/problemset/problem/2115/C)         |     2700 | [2115](https://codeforces.com/contest/2115/standings/friends/true) |   todo   |        |
@@ -4784,7 +4824,9 @@ date: 2025/07/05 14:00
 | 1197F  |                [Coloring Game](https://codeforces.com/problemset/problem/1197/F)                |     2700 | [1197](https://codeforces.com/contest/1197/standings/friends/true) |   todo   |        |
 |  995F  |            [Cowmpany Cowmpensation](https://codeforces.com/problemset/problem/995/F)            |     2700 |  [995](https://codeforces.com/contest/995/standings/friends/true)  |   todo   |        |
 | 1146G  |             [Zoning Restrictions](https://codeforces.com/problemset/problem/1146/G)             |     2700 | [1146](https://codeforces.com/contest/1146/standings/friends/true) |   todo   |        |
+
 # rating-2800 (142)
+
 |   #    |                                               name                                                |   rating |                              standing                              |  status  |  note  |
 |--------|---------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2112F  |           [Variables and Operations](https://codeforces.com/problemset/problem/2112/F)            |     2800 | [2112](https://codeforces.com/contest/2112/standings/friends/true) |   todo   |        |
@@ -4929,7 +4971,9 @@ date: 2025/07/05 14:00
 |  79D   |                    [Password](https://codeforces.com/problemset/problem/79/D)                     |     2800 |   [79](https://codeforces.com/contest/79/standings/friends/true)   |   todo   |        |
 |  10D   |                      [LCIS](https://codeforces.com/problemset/problem/10/D)                       |     2800 |   [10](https://codeforces.com/contest/10/standings/friends/true)   |   todo   |        |
 | 1155F  |              [Delivery Oligopoly](https://codeforces.com/problemset/problem/1155/F)               |     2800 | [1155](https://codeforces.com/contest/1155/standings/friends/true) |   todo   |        |
+
 # rating-2900 (119)
+
 |   #    |                                                name                                                 |   rating |                              standing                              |  status  |  note  |
 |--------|-----------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2111G  |               [Divisible Subarrays](https://codeforces.com/problemset/problem/2111/G)               |     2900 | [2111](https://codeforces.com/contest/2111/standings/friends/true) |   todo   |        |
@@ -5051,7 +5095,9 @@ date: 2025/07/05 14:00
 | 1221G  |                [Graph And Numbers](https://codeforces.com/problemset/problem/1221/G)                |     2900 | [1221](https://codeforces.com/contest/1221/standings/friends/true) |   todo   |        |
 | 1198F  |                  [GCD Groups 2](https://codeforces.com/problemset/problem/1198/F)                   |     2900 | [1198](https://codeforces.com/contest/1198/standings/friends/true) |   todo   |        |
 | 1201E1 |               [Knightmare (easy)](https://codeforces.com/problemset/problem/1201/E1)                |     2900 | [1201](https://codeforces.com/contest/1201/standings/friends/true) |   todo   |        |
+
 # rating-3000 (102)
+
 |   #    |                                              name                                               |   rating |                              standing                              |  status  |  note  |
 |--------|-------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2109F  |                [Penguin Steps](https://codeforces.com/problemset/problem/2109/F)                |     3000 | [2109](https://codeforces.com/contest/2109/standings/friends/true) |   todo   |        |
@@ -5156,7 +5202,9 @@ date: 2025/07/05 14:00
 | 1201E2 |             [Knightmare (hard)](https://codeforces.com/problemset/problem/1201/E2)              |     3000 | [1201](https://codeforces.com/contest/1201/standings/friends/true) |   todo   |        |
 | 1163F  |             [Indecisive Taxi Fee](https://codeforces.com/problemset/problem/1163/F)             |     3000 | [1163](https://codeforces.com/contest/1163/standings/friends/true) |   todo   |        |
 |  506E  |             [Mr. Kitayuta's Gift](https://codeforces.com/problemset/problem/506/E)              |     3000 |  [506](https://codeforces.com/contest/506/standings/friends/true)  |   todo   |        |
+
 # rating-3100 (80)
+
 |   #    |                                                name                                                 |   rating |                              standing                              |  status  |  note  |
 |--------|-----------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2118F  |                [Shifts and Swaps](https://codeforces.com/problemset/problem/2118/F)                 |     3100 | [2118](https://codeforces.com/contest/2118/standings/friends/true) |   todo   |        |
@@ -5239,7 +5287,9 @@ date: 2025/07/05 14:00
 | 1205E  |              [Expected Value Again](https://codeforces.com/problemset/problem/1205/E)               |     3100 | [1205](https://codeforces.com/contest/1205/standings/friends/true) |   todo   |        |
 | 1168E  |                [Xor Permutations](https://codeforces.com/problemset/problem/1168/E)                 |     3100 | [1168](https://codeforces.com/contest/1168/standings/friends/true) |   todo   |        |
 |  438E  |            [The Child and Binary Tree](https://codeforces.com/problemset/problem/438/E)             |     3100 |  [438](https://codeforces.com/contest/438/standings/friends/true)  |   todo   |        |
+
 # rating-3200 (77)
+
 |   #    |                                               name                                                |   rating |                              standing                              |  status  |  note  |
 |--------|---------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 2080A  |       [Strong Connectivity Strikes Back](https://codeforces.com/problemset/problem/2080/A)        |     3200 | [2080](https://codeforces.com/contest/2080/standings/friends/true) |   todo   |        |
@@ -5319,7 +5369,9 @@ date: 2025/07/05 14:00
 | 1209G2 |          [Into Blocks (hard version)](https://codeforces.com/problemset/problem/1209/G2)          |     3200 | [1209](https://codeforces.com/contest/1209/standings/friends/true) |   todo   |        |
 | 1119H  |                    [Triple](https://codeforces.com/problemset/problem/1119/H)                     |     3200 | [1119](https://codeforces.com/contest/1119/standings/friends/true) |   todo   |        |
 |  755G  |        [PolandBall and Many Other Balls](https://codeforces.com/problemset/problem/755/G)         |     3200 |  [755](https://codeforces.com/contest/755/standings/friends/true)  |   todo   |        |
+
 # rating-3300 (73)
+
 |   #    |                                             name                                              |   rating |                              standing                              |  status  |  note  |
 |--------|-----------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 1266G  |         [Permutation Concatenation](https://codeforces.com/problemset/problem/1266/G)         |     3300 | [1266](https://codeforces.com/contest/1266/standings/friends/true) |   todo   |        |
@@ -5395,7 +5447,9 @@ date: 2025/07/05 14:00
 |  576E  |               [Painting Edges](https://codeforces.com/problemset/problem/576/E)               |     3300 |  [576](https://codeforces.com/contest/576/standings/friends/true)  |   todo   |        |
 | 1209H  |              [Moving Walkways](https://codeforces.com/problemset/problem/1209/H)              |     3300 | [1209](https://codeforces.com/contest/1209/standings/friends/true) |   todo   |        |
 |  623E  |           [Transforming Sequence](https://codeforces.com/problemset/problem/623/E)            |     3300 |  [623](https://codeforces.com/contest/623/standings/friends/true)  |   todo   |        |
+
 # rating-3400 (35)
+
 |   #    |                                          name                                           |   rating |                              standing                              |  status  |  note  |
 |--------|-----------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 1442F  |        [Differentiating Games](https://codeforces.com/problemset/problem/1442/F)        |     3400 | [1442](https://codeforces.com/contest/1442/standings/friends/true) |   todo   |        |
@@ -5433,7 +5487,9 @@ date: 2025/07/05 14:00
 |  848E  |        [Days of Floral Colours](https://codeforces.com/problemset/problem/848/E)        |     3400 |  [848](https://codeforces.com/contest/848/standings/friends/true)  |   todo   |        |
 | 1242D  |          [Number Discovery](https://codeforces.com/problemset/problem/1242/D)           |     3400 | [1242](https://codeforces.com/contest/1242/standings/friends/true) |   todo   |        |
 | 1205F  |       [Beauty of a Permutation](https://codeforces.com/problemset/problem/1205/F)       |     3400 | [1205](https://codeforces.com/contest/1205/standings/friends/true) |   todo   |        |
+
 # rating-3500 (95)
+
 |   #    |                                            name                                             |   rating |                              standing                              |  status  |  note  |
 |--------|---------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
 | 1586I  |            [Omkar and Mosaic](https://codeforces.com/problemset/problem/1586/I)             |     3500 | [1586](https://codeforces.com/contest/1586/standings/friends/true) |   todo   |        |
