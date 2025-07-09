@@ -2450,7 +2450,7 @@ date: 2025/07/05 14:00
 
 |   #    |                                                name                                                |   rating |                              standing                              |  status  |  note  |
 |--------|----------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------|----------|--------|
-| 2112D  |             [Reachability and Tree](https://codeforces.com/problemset/problem/2112/D)              |     1700 | [2112](https://codeforces.com/contest/2112/standings/friends/true) |   todo   |        |
+| 2112D  |             [Reachability and Tree](https://codeforces.com/problemset/problem/2112/D)              |     1700 | [2112](https://codeforces.com/contest/2112/standings/friends/true) |   done   |        |
 | 2113C  |              [Smilo and Minecraft](https://codeforces.com/problemset/problem/2113/C)               |     1700 | [2113](https://codeforces.com/contest/2113/standings/friends/true) |   todo   |        |
 | 2118D1 |     [Red Light, Green Light (Easy version)](https://codeforces.com/problemset/problem/2118/D1)     |     1700 | [2118](https://codeforces.com/contest/2118/standings/friends/true) |   todo   |        |
 | 2110D  |                [Fewer Batteries](https://codeforces.com/problemset/problem/2110/D)                 |     1700 | [2110](https://codeforces.com/contest/2110/standings/friends/true) |   todo   |        |
