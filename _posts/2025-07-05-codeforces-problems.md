@@ -2455,7 +2455,7 @@ date: 2025/07/05 14:00
 | 2118D1 |     [Red Light, Green Light (Easy version)](https://codeforces.com/problemset/problem/2118/D1)     |     1700 | [2118](https://codeforces.com/contest/2118/standings/friends/true) |   done   |        |
 | 2110D  |                [Fewer Batteries](https://codeforces.com/problemset/problem/2110/D)                 |     1700 | [2110](https://codeforces.com/contest/2110/standings/friends/true) |   done   |        |
 | 2109C2 |       [Hacking Numbers (Medium Version)](https://codeforces.com/problemset/problem/2109/C2)        |     1700 | [2109](https://codeforces.com/contest/2109/standings/friends/true) |   todo   |        |
-| 2104E  |               [Unpleasant Strings](https://codeforces.com/problemset/problem/2104/E)               |     1700 | [2104](https://codeforces.com/contest/2104/standings/friends/true) |   done   | 预处理判断字串 |
+| 2104E  |               [Unpleasant Strings](https://codeforces.com/problemset/problem/2104/E)               |     1700 | [2104](https://codeforces.com/contest/2104/standings/friends/true) |   done   | 预处理判断子串 |
 | 2094G  |              [Chimpanzini Bananini](https://codeforces.com/problemset/problem/2094/G)              |     1700 | [2094](https://codeforces.com/contest/2094/standings/friends/true) |   todo   |        |
 | 2086D  |                  [Even String](https://codeforces.com/problemset/problem/2086/D)                   |     1700 | [2086](https://codeforces.com/contest/2086/standings/friends/true) |   todo   |        |
 | 2089A  |               [Simple Permutation](https://codeforces.com/problemset/problem/2089/A)               |     1700 | [2089](https://codeforces.com/contest/2089/standings/friends/true) |   todo   |        |
