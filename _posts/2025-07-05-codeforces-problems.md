@@ -2458,7 +2458,7 @@ date: 2025/07/05 14:00
 | 2104E  |               [Unpleasant Strings](https://codeforces.com/problemset/problem/2104/E)               |     1700 | [2104](https://codeforces.com/contest/2104/standings/friends/true) |   done   | 预处理判断子串 |
 | 2094G  |              [Chimpanzini Bananini](https://codeforces.com/problemset/problem/2094/G)              |     1700 | [2094](https://codeforces.com/contest/2094/standings/friends/true) |   done   |        |
 | 2086D  |                  [Even String](https://codeforces.com/problemset/problem/2086/D)                   |     1700 | [2086](https://codeforces.com/contest/2086/standings/friends/true) |   todo   |        |
-| 2089A  |               [Simple Permutation](https://codeforces.com/problemset/problem/2089/A)               |     1700 | [2089](https://codeforces.com/contest/2089/standings/friends/true) |   todo   |        |
+| 2089A  |               [Simple Permutation](https://codeforces.com/problemset/problem/2089/A)               |     1700 | [2089](https://codeforces.com/contest/2089/standings/friends/true) |   done   |        |
 | 2080B  |                  [Best Runner](https://codeforces.com/problemset/problem/2080/B)                   |     1700 | [2080](https://codeforces.com/contest/2080/standings/friends/true) |   todo   |        |
 | 1092C  |             [Prefixes and Suffixes](https://codeforces.com/problemset/problem/1092/C)              |     1700 | [1092](https://codeforces.com/contest/1092/standings/friends/true) |   todo   |        |
 | 2071C  |              [Trapmigiano Reggiano](https://codeforces.com/problemset/problem/2071/C)              |     1700 | [2071](https://codeforces.com/contest/2071/standings/friends/true) |   todo   |        |
