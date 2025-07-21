@@ -2460,7 +2460,7 @@ date: 2025/07/05 14:00
 | 2086D  |                  [Even String](https://codeforces.com/problemset/problem/2086/D)                   |     1700 | [2086](https://codeforces.com/contest/2086/standings/friends/true) |   todo   |        |
 | 2089A  |               [Simple Permutation](https://codeforces.com/problemset/problem/2089/A)               |     1700 | [2089](https://codeforces.com/contest/2089/standings/friends/true) |   done   |        |
 | 2080B  |                  [Best Runner](https://codeforces.com/problemset/problem/2080/B)                   |     1700 | [2080](https://codeforces.com/contest/2080/standings/friends/true) |   todo   |        |
-| 1092C  |             [Prefixes and Suffixes](https://codeforces.com/problemset/problem/1092/C)              |     1700 | [1092](https://codeforces.com/contest/1092/standings/friends/true) |   todo   |        |
+| 1092C  |             [Prefixes and Suffixes](https://codeforces.com/problemset/problem/1092/C)              |     1700 | [1092](https://codeforces.com/contest/1092/standings/friends/true) |   done   |        |
 | 2071C  |              [Trapmigiano Reggiano](https://codeforces.com/problemset/problem/2071/C)              |     1700 | [2071](https://codeforces.com/contest/2071/standings/friends/true) |   todo   |        |
 | 2072F  |              [Goodbye, Banker Life](https://codeforces.com/problemset/problem/2072/F)              |     1700 | [2072](https://codeforces.com/contest/2072/standings/friends/true) |   todo   |        |
 | 2065F  |               [Skibidus and Slay](https://codeforces.com/problemset/problem/2065/F)                |     1700 | [2065](https://codeforces.com/contest/2065/standings/friends/true) |   todo   |        |
